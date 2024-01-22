@@ -178,12 +178,12 @@
 **Question 3**
    
    - Provide a platform for effective media marketing:<br>
-     `Social media platforms, such as Facebook, Instagram, Twitter, and LinkedIn, provide a dynamic and interactive environment for businesses to engage with their audience. These platforms offer tools for content sharing, audience targeting, and real-time interaction, making them effective for media marketing strategies.`
+     `Social media platforms, such as Facebook, Instagram, Twitter, and LinkedIn.`
    
    <br>
    
    - Explain:<br>
-     `Social media platforms serve as virtual spaces where businesses can share content, build brand awareness, and connect with their target audience. Through features like targeted advertising, businesses can reach specific demographics, track engagement, and receive immediate feedback. The interactive nature of social media allows for two-way communication, fostering relationships with customers and facilitating effective media marketing campaigns.`
+     `Social media platforms serve as virtual spaces where businesses can share content, build brand awareness, and connect with their target audience. Through features like targeted advertising, businesses can reach specific demographics, track engagement, and receive immediate feedback.`
    
    <br>
    
